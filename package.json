@@ -40,7 +40,7 @@
 		"@bitrise/steplib-search": "^2.2.2",
 		"@datadog/browser-logs": "^1.7.0",
 		"abortcontroller-polyfill": "^1.5.0",
-		"angular": "^1.7.9",
+		"angular": "^1.8.0",
 		"angular-animate": "1.7.9",
 		"angular-cookies": "1.7.9",
 		"angular-elastic": "^2.5.1",
